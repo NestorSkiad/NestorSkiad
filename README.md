@@ -1,4 +1,17 @@
-### Hi there 👋
+I don't like GitHub very much, you'll find me being a lot more active on GitLab: https://gitlab.com/technone
+
+
+### Languages (in order of preference)
+* Rust
+* Python
+* Java
+* Go
+* C/C++
+* Other: Haskell, Erlang (yes, really)
+
+### Other
+* NumPy and Pandas
+* MapReduce and Spark
 
 <!--
 **NestorSkiad/NestorSkiad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
