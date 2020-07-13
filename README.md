@@ -13,6 +13,8 @@ I don't like GitHub very much, you'll find me being a lot more active on GitLab:
 * Multi-threading: Rust, Go, C/C++ (locks and OpenMP), Erlang, Haskell
 * NumPy and Pandas
 * MapReduce and Spark
+* HDFS, Cassandra, BigTable
+* Some: SQL, HTML, XML, YAML
 
 <!--
 **NestorSkiad/NestorSkiad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
