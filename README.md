@@ -10,6 +10,7 @@ I don't like GitHub very much, you'll find me being a lot more active on GitLab:
 * Other: Haskell, Erlang (yes, really)
 
 ### Other
+* Multi-threading: Rust, Go, C/C++ (locks and OpenMP), Erlang, Haskell
 * NumPy and Pandas
 * MapReduce and Spark
 
